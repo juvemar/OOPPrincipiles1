@@ -1,0 +1,6 @@
+C:\Users\Atanasov\Documents\Visual Studio 2013\OOP\OOP_Principles1\OOPPrinciples1\03. AnimalHierarchy\bin\Debug\_03.AnimalHierarchy.exe.config
+C:\Users\Atanasov\Documents\Visual Studio 2013\OOP\OOP_Principles1\OOPPrinciples1\03. AnimalHierarchy\bin\Debug\_03.AnimalHierarchy.exe
+C:\Users\Atanasov\Documents\Visual Studio 2013\OOP\OOP_Principles1\OOPPrinciples1\03. AnimalHierarchy\bin\Debug\_03.AnimalHierarchy.pdb
+C:\Users\Atanasov\Documents\Visual Studio 2013\OOP\OOP_Principles1\OOPPrinciples1\03. AnimalHierarchy\obj\Debug\03. AnimalHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Atanasov\Documents\Visual Studio 2013\OOP\OOP_Principles1\OOPPrinciples1\03. AnimalHierarchy\obj\Debug\_03.AnimalHierarchy.exe
+C:\Users\Atanasov\Documents\Visual Studio 2013\OOP\OOP_Principles1\OOPPrinciples1\03. AnimalHierarchy\obj\Debug\_03.AnimalHierarchy.pdb
